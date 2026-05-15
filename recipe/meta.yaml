@@ -1,4 +1,4 @@
-{% set version = "1.0.0" %}
+{% set version = "1.0.2" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tidy-logger/tidy_logger-{{ version }}.tar.gz
-  sha256: 8cbd65cf93e2614f4c84ac278cb8a3185b28e3f75edb8158e74d18d68b6b06c7
+  sha256: 8ef2cb72f406a64b004665575abad1b528d0b8b2e873dece61317ceb19e9ec4d
 
 build:
   noarch: python
