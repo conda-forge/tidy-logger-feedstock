@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tidy-logger/tidy_logger-{{ version }}.tar.gz
-  sha256: 2691c9b374e2e8b044289987b012e99d9301fb728505757ff79a42e32f53cbc2
+  sha256: dfa1e7a7472956e60119867d378c460d99bc477c9ef64c169fc32bad6e5d5f3f
 
 build:
   noarch: python
